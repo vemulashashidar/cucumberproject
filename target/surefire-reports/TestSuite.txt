@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 3.971 s <<< FAILURE! - in TestSuite
+runScenario(CucumberOptions.TestRunner)  Time elapsed: 1.85 s  <<< FAILURE!
+org.openqa.selenium.remote.NoSuchDriverException: 
+chromedriver located at C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\117.0.5938.88\chromedriver.exe, but invalid
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location/
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: unknown
+
+runScenario(CucumberOptions.TestRunner)  Time elapsed: 1.851 s  <<< FAILURE!
+org.openqa.selenium.remote.NoSuchDriverException: 
+chromedriver located at C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\117.0.5938.88\chromedriver.exe, but invalid
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location/
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: unknown
+
+runScenario(CucumberOptions.TestRunner)  Time elapsed: 1.851 s  <<< FAILURE!
+org.openqa.selenium.remote.NoSuchDriverException: 
+chromedriver located at C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\117.0.5938.88\chromedriver.exe, but invalid
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location/
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: unknown
+
